@@ -4,11 +4,11 @@ This is an implementation of a plant `image classifier` which classifies 102 cat
 
 ### Architecture
 ___
-This implementation supports the `resnet50` and `vgg16` architectureS and has a output layer with 102 units representing each of the possible plant categories.
+This implementation supports the `resnet50` and `vgg16` architectures and has a output layer with 102 units representing each of the possible plant categories.
 
 ### Implementation
 ___
-The `image classifier` was built using pytorch and was tested on a dataset which you can by running `python flowers.py` in the command line. 
+The `image classifier` was built using Pytorch and was tested on a dataset which you can by running `python flowers.py` in the command line. 
 
 ### Use
 ___
